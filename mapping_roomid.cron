@@ -1,0 +1,1 @@
+55 23 * * * root cd __INSTALL_DIR__ && python mapping_roomid.py __READ_LOG_FULL_PATH__ __Reqaddr__ 2>&1 >/dev/null
